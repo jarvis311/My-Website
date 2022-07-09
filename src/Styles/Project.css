@@ -17,6 +17,7 @@
 }
 .project_image{
     border-radius: 1.2rem;
+    height: 20vh;
     overflow: hidden;
 }
 .project_item > h3{

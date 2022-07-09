@@ -11,6 +11,9 @@
     position: fixed;
     left: 50%;
     bottom: 2rem;
+    
+
+    
 }
 .navbar > a{
     background: transparent;
@@ -27,4 +30,15 @@
 .navbar > a.active{
     background: var(--color-bg);
     color: #fff;
+}
+
+@media screen and (max-width:600px) {
+    .navbar{
+        margin-bottom: 7rem;
+        transform: rotateZ(90deg);
+    }
+  .navbar > a{
+    transform: rotateZ(-90deg);
+    
+}
 }
