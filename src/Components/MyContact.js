@@ -30,14 +30,14 @@ const MyContact = () => {
         
             <BsLinkedin className='contact_icon'/>
             <h4>Linkedin</h4>
-            <h5>playingbnoy204@gmail.com</h5>
+            <h5>inkedin.com/in/patel-jignesh-b560a8202/</h5>
             <a href="mailto:playingbnoy204@gmail.com">Send a massage</a>
           </article>
           
           <article className='option'>
           <TbMail className='contact_icon'/>
             <h4>Mail</h4>
-            <h5>playingboy204@gmail.com</h5>
+            <h5>jigneshpatel754622@gmail.com</h5>
             <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=playingboy204@gmail.com">Send a massage</a>
           </article>
 
@@ -45,7 +45,7 @@ const MyContact = () => {
             
             <SiWhatsapp className='contact_icon'/>
             <h4>WhatsApp</h4>
-            <h5>playingbnoy204@gmail.com</h5>
+            <h5>706923****</h5>
             <a href="https://api.whatsapp.com/send/?phone+917069233878">Send a massage</a>
           </article>
         </div>
