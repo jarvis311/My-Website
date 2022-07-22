@@ -34,11 +34,7 @@
 
 @media screen and (max-width:600px) {
     .navbar{
-        margin-bottom: 7rem;
-        transform: rotateZ(90deg);
+        margin-bottom: 35rem;
     }
-  .navbar > a{
-    transform: rotateZ(-90deg);
-    
-}
+
 }

@@ -26,13 +26,17 @@ header{
 }
 .header .me{ 
     background-color: #35436D;
-    width: 22rem;
-    height: 30rem;
+    width: 100%;
+    height: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    /* padding: 5rem 1.5rem 1.5rem 1.5rem; */
     overflow: hidden;
+}
+.header .me > img{
+    height: 100%;
+
 }
 .headerInfo > h5{
     font-size: 1.5rem !important;

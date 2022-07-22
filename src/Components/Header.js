@@ -1,7 +1,9 @@
 import React from 'react'
 import '../Styles/Header.css'
 import HeaderCv from './HeaderCv'
-import me from '../Images/me--.png'
+import MYSELF from '../Images/MYSELF.png'
+
+
 const Header = () => {
     return (
         <header className='container header'>
@@ -27,7 +29,7 @@ const Header = () => {
             </div>
 
             <div className="me">
-                <img src={me} alt="Jignesh Patel" />
+                <img src={MYSELF} alt="Jignesh Patel" />
             </div>
         </header>
     )

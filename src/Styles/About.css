@@ -1,12 +1,18 @@
+#About{
+    margin-bottom: 10rem;
+}
+
 .about-me{
     padding: 2rem;
     width: 100%;
     border-radius: 2rem;
     display: grid;
-    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
+    color: black;
+    background: #9cc3d5ff;
 }
 .about-me > p {
     font-family: 'Edu TAS Beginner', cursive;
+    font-size: 1.5rem;
 }
 
 @media screen  and (max-width:1024px){
@@ -18,5 +24,8 @@
     .about{
         width: 70%;
         
+    }
+    .about-me > p {
+        font-size: 1rem;
     }
 }
