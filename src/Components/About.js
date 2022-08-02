@@ -7,7 +7,7 @@ const About = () => {
         <h2>About Me</h2>
         <div className="container about">
           <div className="about-me">
-            <p>Hello, guys. My name is Jignesh Patel. I'm an IT engineer. 
+            <p>Hello, My name is Jignesh Patel. I'm an IT engineer. 
               I graduated from the GTU in 2022. I describe myself as a passionate 
               developer who loves coding, open source, and the web platform. Build 
               web applications with web development best practices. Transform app 

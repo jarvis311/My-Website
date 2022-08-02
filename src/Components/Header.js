@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <header className='container header'>
             <div className="headerInfo">
-                <h5>Hello guys I'm </h5>
+                <h5>Hello I'm </h5>
                 <h1 className='waviy'>
                     <span style={{ '--i': 1 }}>J</span>
                     <span style={{ '--i': 2 }}>I</span>
